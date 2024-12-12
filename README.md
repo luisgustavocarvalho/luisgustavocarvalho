@@ -14,12 +14,11 @@ Sou um profissional em transição de carreira para a área de desenvolvimento *
   <img align="center" alt="Luis-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
-<div style="display: inline_block"><br>
-<a href="https://github.com/luisgustavocarvalho/github-readme-stats">
-  <img weigth=300 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LuisGustavoCarvalho&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/luisgustavocarvalho/convoychat">
-  <img weigth=300 height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisGustavoCarvalho&layout=compact&theme=tokyonight&langs_count=8&card_width=320" />
+<div>
+  <a href="https://github.com/luisgustavocarvalho/convoychat">
+    <img width="400" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisGustavoCarvalho&layout=compact&theme=tokyonight&langs_count=8" alt="Most Used Languages" /></a>
+  <a href="https://github.com/luisgustavocarvalho/github-readme-stats">
+  <img weigth=400 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LuisGustavoCarvalho&show_icons=true&theme=tokyonight" />
 </a>
 </div>
 
