@@ -1,22 +1,29 @@
 ## Olá! Eu sou o Luis Gustavo 😁
 
-<a href="https://github.com/luisgustavocarvalho/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LuisGustavoCarvalho&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/luisgustavocarvalho/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisGustavoCarvalho&layout=compact&theme=tokyonight&langs_count=8&card_width=320" />
-</a>
+## 🧑‍💻 Sobre Mim
 
- <div style="display: inline_block"><br>
+Sou um profissional em transição de carreira para a área de desenvolvimento **Front-End**. Apaixonado por tecnologia e design, tenho me dedicado intensamente a cursos e projetos que me ajudem a consolidar meus conhecimentos e evoluir na área. Meu foco principal está em criar interfaces interativas, intuitivas e funcionais que proporcionem uma excelente experiência ao usuário.
+
+## 🚀 Habilidades Técnicas
+
+<div style="display: inline_block"><br>
   <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luis-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Luis-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  
 </div>
 
-  ##
+<div style="display: inline_block"><br>
+<a href="https://github.com/luisgustavocarvalho/github-readme-stats">
+  <img weigth=300 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LuisGustavoCarvalho&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/luisgustavocarvalho/convoychat">
+  <img weigth=300 height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisGustavoCarvalho&layout=compact&theme=tokyonight&langs_count=8&card_width=320" />
+</a>
+</div>
+
+## 📫 Contato
 
 <div> 
   <a href="https://www.linkedin.com/in/luis-gustavo-de-carvalho-ferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -24,6 +31,15 @@
   <a href="https://www.instagram.com/luisgustavo.cf/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
 </div>
+
+## 🌟 Curiosidades
+
+- Estou sempre em busca de novas tecnologias e tendências no mercado de desenvolvimento.
+- Meu objetivo é criar soluções que impactem positivamente a vida dos usuários.
+
+---
+
+**Obrigado por visitar meu perfil! 👋**
 
   
 <!--
