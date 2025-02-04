@@ -13,7 +13,7 @@ Sou um profissional em transição de carreira para a área de desenvolvimento *
   <img align="center" alt="Luis-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Luis-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
-
+<br>
 <div>
   <a href="https://github.com/luisgustavocarvalho/github-readme-stats">
   <img weigth=400 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LuisGustavoCarvalho&show_icons=true&theme=tokyonight" />
