@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 Sobre Mim
 
-Sou um profissional em transição de carreira para a área de desenvolvimento **Front-End**. Apaixonado por tecnologia e design, tenho me dedicado intensamente a cursos e projetos que me ajudem a consolidar meus conhecimentos e evoluir na área. Meu foco principal está em criar interfaces interativas, intuitivas e funcionais que proporcionem uma excelente experiência ao usuário.
+Sou um desenvolvedor **Front-End** apaixonado por tecnologia e design, dedicado a criar interfaces interativas, intuitivas e funcionais que proporcionem uma excelente experiência ao usuário. Tenho me aprimorado constantemente por meio de cursos e projetos, buscando sempre evoluir e aprofundar meus conhecimentos na área.
 
 ## 🚀 Habilidades Técnicas
 <div style="display: inline_block"><br>
