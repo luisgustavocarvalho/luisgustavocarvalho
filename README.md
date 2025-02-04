@@ -5,7 +5,6 @@
 Sou um profissional em transição de carreira para a área de desenvolvimento **Front-End**. Apaixonado por tecnologia e design, tenho me dedicado intensamente a cursos e projetos que me ajudem a consolidar meus conhecimentos e evoluir na área. Meu foco principal está em criar interfaces interativas, intuitivas e funcionais que proporcionem uma excelente experiência ao usuário.
 
 ## 🚀 Habilidades Técnicas
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -13,7 +12,6 @@ Sou um profissional em transição de carreira para a área de desenvolvimento *
   <img align="center" alt="Luis-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Luis-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
-<br>
 
 ## 📫 Contato
 
